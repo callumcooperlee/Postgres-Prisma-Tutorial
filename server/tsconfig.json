@@ -8,8 +8,9 @@
     "forceConsistentCasingInFileNames": true,
     "noEmit": true,
     "allowImportingTsExtensions": true,
-    "rootDir": "./src",
-    "outDir": "./dist",
+    "rootDir": "src",
+    "outDir": "dist",
   },
   "include": ["src/index.ts", "prisma/**/*.ts"]
 }
+
